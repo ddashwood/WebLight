@@ -64,3 +64,5 @@ A simple HTMLX page which displays the current status of the light, and includes
 * Modify the web page so that submits a JSON request when the light is turned on/off rather than re-loading the whole page
 * Turn the web server into a proper service
 * Add support for hardware switches to turn the light on and off
+* Add support to set the brightness
+* Add support to change the colour of the lights
