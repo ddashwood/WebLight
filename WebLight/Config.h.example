@@ -1,8 +1,6 @@
 #ifndef CONFIG_H
 #define CONFIG_H
 
-#include <ESP8266WiFi.h>
-
 #define IP (192, 168, 0, 254)
 #define GATEWAY (192, 168, 0, 1)
 #define SUBNET (255, 255, 255, 0)
